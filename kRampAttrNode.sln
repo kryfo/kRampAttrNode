@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "kRampAttrNode", "kRampAttrNode.vcxproj", "{A687F748-FE04-4394-9244-CD707D18CF81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A687F748-FE04-4394-9244-CD707D18CF81}.Debug|x64.ActiveCfg = Debug|x64
+		{A687F748-FE04-4394-9244-CD707D18CF81}.Debug|x64.Build.0 = Debug|x64
+		{A687F748-FE04-4394-9244-CD707D18CF81}.Release|x64.ActiveCfg = Release|x64
+		{A687F748-FE04-4394-9244-CD707D18CF81}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A236310-528D-4344-9E6F-5ACB99E1CE12}
+	EndGlobalSection
+EndGlobal
